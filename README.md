@@ -1,8 +1,9 @@
-❤️ Heart Attack Risk Analysis - Data Science Project
-📌 Overview
+## ❤️ Heart Attack Risk Analysis - Data Science Project
+
+## 📌 Overview
 This project explores a dataset related to heart disease to identify key factors that influence the risk of heart attacks. Using data preprocessing, exploratory data analysis (EDA), and machine learning classification models, it aims to support early detection and risk prediction of heart attacks.
 
-🎯 Objectives
+## 🎯 Objectives
 Understand the relationship between various clinical attributes and heart attack risk.
 
 Perform data cleaning and transformation.
@@ -13,7 +14,7 @@ Build and evaluate machine learning models to predict heart attack risk.
 
 Highlight key risk factors through feature importance analysis.
 
-🧪 Dataset
+## 🧪 Dataset
 The dataset includes medical and demographic attributes such as:
 
 Age
@@ -38,7 +39,8 @@ Target (Presence or absence of heart disease)
 
 Source: Commonly used heart disease dataset (e.g., UCI Heart Disease dataset)
 
-🛠️ Tools & Technologies
+## 🛠️ Tools & Technologies
+
 Tool/Library	Purpose
 Python	Main programming language
 Jupyter Notebook	Interactive analysis
@@ -47,7 +49,8 @@ NumPy	Numerical operations
 Matplotlib & Seaborn	Visualization
 Scikit-learn	ML modeling & evaluation
 
-📈 Project Workflow
+## 📈 Project Workflow
+
 Data Loading & Cleaning
 
 Handle missing values (if any)
